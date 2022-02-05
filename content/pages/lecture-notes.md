@@ -7,27 +7,256 @@ uid: a38d3a88-c78f-7b34-499a-08dcc287d180
 Part A – Chernozhukov
 ---------------------
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| L1 | Methods for nonlinear models: maximum likelihood estimation (MLE), generalized method of moments (GMM), minimum distance, extremum | Basic overview of some principal methods ([PDF]({{< baseurl >}}/resources/lecture01)) |
-| L2-L5 | Large sample theory, asymptotic theory, discrete choice, censoring, and sample selection |  {{< br >}}{{< br >}} Consistency for extremum estimators ([PDF - 3.6 MB]({{< baseurl >}}/resources/lecture02)) {{< br >}}{{< br >}} Consistency (cont.) {{< br >}}{{< br >}} Asymptotic distribution of extremum estimators ([PDF]({{< baseurl >}}/resources/lecture03)) {{< br >}}{{< br >}} Asymptotic distribution of GMM/nonlinear instrumental variables (IV) ([PDF]({{< baseurl >}}/resources/lecture04)) {{< br >}}{{< br >}} Two-step estimators, efficiency, one-step estimators ([PDF]({{< baseurl >}}/resources/lecture05)) {{< br >}}{{< br >}}  |
-| L6-L7 | Bootstrap, subsampling, and finite-sample methods |  {{< br >}}{{< br >}} Bootstrap and finite sample inference ([PDF]({{< baseurl >}}/resources/lecture06)) {{< br >}}{{< br >}} Consistency and accuracy of bootstrap ([PDF]({{< baseurl >}}/resources/lecture07)) {{< br >}}{{< br >}}  |
-| L8-L9 | Quantile regression (QR) and distributional methods |  {{< br >}}{{< br >}} An introduction to quantile methods ([PDF]({{< baseurl >}}/resources/lecture08)) {{< br >}}{{< br >}} Quantile methods 2: equivariance, GMM for quantiles, endogenous models, empirical examples ([PDF]({{< baseurl >}}/resources/lecture09)) {{< br >}}{{< br >}}  |
-| L10-L11 | Bayesian and quasi-Bayesian methods (from a classical view) | Bayesian and quasi-Bayesian methods ([PDF]({{< baseurl >}}/resources/lecture10_11)) |
-| L12 | Bounds and partial identification | Set estimation and inference in moment condition models ([PDF]({{< baseurl >}}/resources/lecture12)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Methods for nonlinear models: maximum likelihood estimation (MLE), generalized method of moments (GMM), minimum distance, extremum
+{{< tdclose >}}
+{{< tdopen >}}
+Basic overview of some principal methods ([PDF]({{< baseurl >}}/resources/lecture01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2-L5
+{{< tdclose >}}
+{{< tdopen >}}
+Large sample theory, asymptotic theory, discrete choice, censoring, and sample selection
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Consistency for extremum estimators ([PDF - 3.6 MB]({{< baseurl >}}/resources/lecture02))
+
+Consistency (cont.)
+
+Asymptotic distribution of extremum estimators ([PDF]({{< baseurl >}}/resources/lecture03))
+
+Asymptotic distribution of GMM/nonlinear instrumental variables (IV) ([PDF]({{< baseurl >}}/resources/lecture04))
+
+Two-step estimators, efficiency, one-step estimators ([PDF]({{< baseurl >}}/resources/lecture05))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6-L7
+{{< tdclose >}}
+{{< tdopen >}}
+Bootstrap, subsampling, and finite-sample methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bootstrap and finite sample inference ([PDF]({{< baseurl >}}/resources/lecture06))
+
+Consistency and accuracy of bootstrap ([PDF]({{< baseurl >}}/resources/lecture07))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8-L9
+{{< tdclose >}}
+{{< tdopen >}}
+Quantile regression (QR) and distributional methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+An introduction to quantile methods ([PDF]({{< baseurl >}}/resources/lecture08))
+
+Quantile methods 2: equivariance, GMM for quantiles, endogenous models, empirical examples ([PDF]({{< baseurl >}}/resources/lecture09))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10-L11
+{{< tdclose >}}
+{{< tdopen >}}
+Bayesian and quasi-Bayesian methods (from a classical view)
+{{< tdclose >}}
+{{< tdopen >}}
+Bayesian and quasi-Bayesian methods ([PDF]({{< baseurl >}}/resources/lecture10_11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Bounds and partial identification
+{{< tdclose >}}
+{{< tdopen >}}
+Set estimation and inference in moment condition models ([PDF]({{< baseurl >}}/resources/lecture12))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Part B – Newey
 --------------
 
-| SES # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| L13-L14 | GMM: identification, estimation, testing, bias, selecting moments |  {{< br >}}{{< br >}} Generalized method of moments notes ([PDF]({{< baseurl >}}/resources/notes_gmm)) {{< br >}}{{< br >}} GMM estimation and testing slides ([PDF]({{< baseurl >}}/resources/lec13_gmm)) {{< br >}}{{< br >}} GMM estimation and testing II slides ([PDF]({{< baseurl >}}/resources/lec14_gmm)) {{< br >}}{{< br >}}  |
-| L15 | Weak and many instruments | &nbsp; |
-| L16-L17 | Nonparametric estimation |  {{< br >}}{{< br >}} Nonparametric and semiparametric estimation notes ([PDF]({{< baseurl >}}/resources/notes_nonsemi)) {{< br >}}{{< br >}} Nonparametric regression slides ([PDF]({{< baseurl >}}/resources/lec16_17_nonpar)) {{< br >}}{{< br >}} Locally linear regression notes ([PDF]({{< baseurl >}}/resources/local_lin_reg)) {{< br >}}{{< br >}}  |
-| L18-L19 | Semiparametric estimation |  {{< br >}}{{< br >}} Nonparametric and semiparametric estimation notes ([PDF]({{< baseurl >}}/resources/notes_nonsemi)) {{< br >}}{{< br >}} Semiparametric models and estimators slides ([PDF]({{< baseurl >}}/resources/lec18_19_semipar)) {{< br >}}{{< br >}}  |
-| L20 | Treatment effects |  {{< br >}}{{< br >}} Treatment effects notes ([PDF]({{< baseurl >}}/resources/notes_treat)) {{< br >}}{{< br >}} Treatment effects I slides ([PDF]({{< baseurl >}}/resources/lec20_treat1)) {{< br >}}{{< br >}} Treatment effects II slides ([PDF]({{< baseurl >}}/resources/lec20_treat2)) {{< br >}}{{< br >}}  |
-| L21-L22 | Nonlinear models in panel data | Nonlinear panel data slides ([PDF]({{< baseurl >}}/resources/lec21_22_nlpan)) |
-| L23-L25 | Economic modeling and econometrics | Demand estimation with imperfect competition slides ([PDF]({{< baseurl >}}/resources/lec23_25_deic)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13-L14
+{{< tdclose >}}
+{{< tdopen >}}
+GMM: identification, estimation, testing, bias, selecting moments
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Generalized method of moments notes ([PDF]({{< baseurl >}}/resources/notes_gmm))
+
+GMM estimation and testing slides ([PDF]({{< baseurl >}}/resources/lec13_gmm))
+
+GMM estimation and testing II slides ([PDF]({{< baseurl >}}/resources/lec14_gmm))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Weak and many instruments
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16-L17
+{{< tdclose >}}
+{{< tdopen >}}
+Nonparametric estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nonparametric and semiparametric estimation notes ([PDF]({{< baseurl >}}/resources/notes_nonsemi))
+
+Nonparametric regression slides ([PDF]({{< baseurl >}}/resources/lec16_17_nonpar))
+
+Locally linear regression notes ([PDF]({{< baseurl >}}/resources/local_lin_reg))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18-L19
+{{< tdclose >}}
+{{< tdopen >}}
+Semiparametric estimation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Nonparametric and semiparametric estimation notes ([PDF]({{< baseurl >}}/resources/notes_nonsemi))
+
+Semiparametric models and estimators slides ([PDF]({{< baseurl >}}/resources/lec18_19_semipar))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Treatment effects
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Treatment effects notes ([PDF]({{< baseurl >}}/resources/notes_treat))
+
+Treatment effects I slides ([PDF]({{< baseurl >}}/resources/lec20_treat1))
+
+Treatment effects II slides ([PDF]({{< baseurl >}}/resources/lec20_treat2))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21-L22
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear models in panel data
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear panel data slides ([PDF]({{< baseurl >}}/resources/lec21_22_nlpan))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23-L25
+{{< tdclose >}}
+{{< tdopen >}}
+Economic modeling and econometrics
+{{< tdclose >}}
+{{< tdopen >}}
+Demand estimation with imperfect competition slides ([PDF]({{< baseurl >}}/resources/lec23_25_deic))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 References for Part A
 ---------------------
