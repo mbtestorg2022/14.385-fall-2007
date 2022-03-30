@@ -124,7 +124,7 @@ Andrews, Donald W. K. "[Empirical Process Methods in Econometrics](http://dx.doi
 
 Knight, Keith. "[Epi-Convergence in Distribution and Stochastic Equi-semicontinuity](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.5686)."
 
-Koenker, Roger, and Jungmo Yoon. "Parametric Links for Binary Choice Models." Working Paper, Department of Economics, University of Illinois, Urbana-Champaign, 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.econ.uiuc.edu/~roger/research/links/links.pdf))
+Koenker, Roger, and Jungmo Yoon. "Parametric Links for Binary Choice Models." Working Paper, Department of Economics, University of Illinois, Urbana-Champaign, 2006. ([PDF](http://www.econ.uiuc.edu/~roger/research/links/links.pdf))
 
 Pollard, David. "Asymptotics for Least Absolute Deviation Regression Estimators." _Econometric Theory_ 7, no. 2 (June 1991): 186-199.
 
@@ -389,7 +389,7 @@ Arellano, Manuel, and Bo Honoré. "[Panel Data Models: Some Recent Developments]
 
 \*Hahn, J., and W. Newey. "Jacknife and Analytical Bias Reduction for Nonlinear Panel Data Models." _Econometrica_ 72 (2004): 1295-1319.
 
-Honoré, B.E., and E. Tamer. "Bounds on Parameters in Dynamic Discrete Choice Models." _Econometrica_ 74, no. 3 (May 2006): 611-629. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.princeton.edu/~honore/papers/panel_bounds.pdf))
+Honoré, B.E., and E. Tamer. "Bounds on Parameters in Dynamic Discrete Choice Models." _Econometrica_ 74, no. 3 (May 2006): 611-629. ([PDF](http://www.princeton.edu/~honore/papers/panel_bounds.pdf))
 
 
 {{< tdclose >}}
@@ -405,7 +405,7 @@ Economic modeling and econometrics
 {{< tdopen >}}
 
 
-\* Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
+\* Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. ( [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
 
 \*Berry, S., J. Levinsohn, and A. Pakes. "Automobile Prices in Market Equilibrium." _Econometrica_ 63 (1995): 841-890.
 
@@ -413,7 +413,7 @@ Nevo, A. "Measuring Market Power in the Ready to Eat Breakfast Cereal Industry."
 
 Hausman, J. A., and G. Leonard. "The Competitive Effects of a New Product Introduction: A Case Study." _Journal of Industrial Economics_ 50, no. 3 (2002): 237-263.
 
-Ackerberg, Daniel, C. Lanier Benkard, Steven Berry, and Ariel Pakes. "Econometric Tools for Analyzing Market Outcomes." In _Handbook of Econometrics_. Vol. 6. Part 1. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2005, chapter 63, pp. 4171-4276. ISBN: 9780444506313. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://scholar.harvard.edu/files/pakes/files/tools8l.pdf))
+Ackerberg, Daniel, C. Lanier Benkard, Steven Berry, and Ariel Pakes. "Econometric Tools for Analyzing Market Outcomes." In _Handbook of Econometrics_. Vol. 6. Part 1. Edited by James J. Heckman and Edward E. Leamer. Amsterdam, The Netherlands: North-Holland Publishing Co., 2005, chapter 63, pp. 4171-4276. ISBN: 9780444506313. ([PDF](https://scholar.harvard.edu/files/pakes/files/tools8l.pdf))
 
 Blomquist, S., and W. K. Newey. "Nonparametric Estimation with Nonlinear Budget Sets." _Econometrica_ 70 (2002): 2455-2480.
 

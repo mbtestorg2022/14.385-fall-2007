@@ -65,7 +65,7 @@ Newey, W. K. "Discrete Choice and Censoring." ([PDF]({{< baseurl >}}/resources/n
 
 Koenker, Roger, and Yannis Bilias. "Quantile Regression for Duration Data: A Reappraisal of the Pennsylvania Reemployment Bonus Experiments." _Empirical Economics_ 26 (2001): 199-220.
 
-Koenker, Roger. "Quantile Regression in R: A Vignette." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.econ.uiuc.edu/~roger/research/rq/vig.pdf))
+Koenker, Roger. "Quantile Regression in R: A Vignette." ([PDF](http://www.econ.uiuc.edu/~roger/research/rq/vig.pdf))
 
 qreg command, STATA manual.
 

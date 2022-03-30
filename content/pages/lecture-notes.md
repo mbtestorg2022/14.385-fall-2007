@@ -271,7 +271,7 @@ Chernozhukov, Victor, and Han Hong. "[An MCMC Approach to Classical Estimation](
 
 DeGroot, Morris H., and Mark J. Schervish. [_Probability and Statistics_](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook). 3rd ed. Boston, Pearson Education, 2001.
 
-Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
+Haile, Philip A., and Elie Tamer. "Inference with an Incomplete Model of English Auctions." _Journal of Political Economy_ 111, no. 1 (February 2003): 1-51. ( [PDF](http://www.journals.uchicago.edu/doi/pdf/10.1086/344801))
 
 Hayashi, Fumio. [_Econometrics_](http://fhayashi.fc2web.com/hayashi_econometrics.htm). Princeton, NJ: Princeton University Press, 2000. ISBN: 9780691010182.
 
